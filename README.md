@@ -1,0 +1,1 @@
+Implemented an email spam detection system using SVM and CNN models with NLP techniques, achieving high accuracy. Utilized TF-IDF, tokenization, and embedding for feature extraction and classification.
